@@ -8,4 +8,4 @@ Programacion Orientada a Objetos
 Base de datos MySql
 Lengujes de programacion como:
 
-Generis-Php Generis-Python Generis-HTML Generis-CSS Generis-Js
+
