@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Nicolás</h1>
 <h3 align="center">Técnico Superior en Desarrollo de Software</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=nicog2112&label=Profile%20views&color=0e75b6&style=flat" alt="nicog2112" /> </p>
 
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=nicog2112" alt="nicog2112" /></a > </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
