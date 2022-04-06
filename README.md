@@ -5,7 +5,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/en/https://www.linkedin.com/en/nicolas-gauna-5379b8102/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /en/nicolas-gauna-5379b8102/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nicolas-gauna2112" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /en/nicolas-gauna-5379b8102/" height="30" width="40" /></a>
 <a href="https://instagram.com/nicog2112" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicog2112" height="30 " ancho="40" /></a>
 </p>
 
