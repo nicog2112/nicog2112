@@ -22,13 +22,17 @@
 
 👨‍💻 Tecnico Superior en Desarrollo de Software  
 Soy Técnico Superior en Desarrollo de Software y Técnico en Informática Profesional y Personal con muchas ganas de seguir aprendiendo, con gran capacidad de adaptabilidad y compañerismo. 
+📚 Cuento con conocimientos en:
+Diagramas UML
+Programacion Orientada a Objetos
+Base de datos MySql
+Lengujes de programacion como:
   
 
 <br/>  
 
 
 
-## Languages and Tools  
 <div align="center">  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -56,11 +60,11 @@ Soy Técnico Superior en Desarrollo de Software y Técnico en Informática Profe
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nicog2112&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicog2112&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -70,7 +74,7 @@ Soy Técnico Superior en Desarrollo de Software y Técnico en Informática Profe
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=nicog2112&&style=flat-square)  
   
 
 <br/>  
