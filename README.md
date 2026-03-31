@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nicolas%20Gauna&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nicolas%20Gauna&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%26+DevOps+Engineer;React+%7C+Next.js+%7C+React+Native;TypeScript+%7C+Python+%7C+PHP;AWS+%7C+CI%2FCD+%7C+Docker;Mercado+Pago+%7C+AI+Integrations;KrakenLab)](https://git.io/typing-svg)
 
@@ -112,7 +112,7 @@ Trabajo en **KrakenLab**, desarrollando soluciones SaaS modernas con tecnología
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicog2112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicog2112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicog2112&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" height="170" />
 </div>
 
