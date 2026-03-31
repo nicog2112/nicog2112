@@ -87,7 +87,7 @@ Trabajo en **KrakenLab**, desarrollando soluciones SaaS modernas con tecnología
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **IVO System** | Sistema de control de stock y ventas online para boutiques — gestión de productos, facturación, pedidos web, compras a proveedores, reportes y promociones. Proyecto académico final | PHP · JavaScript · CSS · MySQL |
+| **IVO System** | Sistema de control de stock y ventas online para boutiques — gestión de productos, facturación, pedidos web, compras a proveedores, reportes y promociones. Proyecto académico final | PHP · JavaScript · jQuery · Ajax · Bootstrap · CSS · MySQL |
 | **POSIS** | App de integración para PERELSTEIN DISTRIBUCIONES — lee ventas desde SQL Server, genera archivos JSON e impacta en la API del proveedor, reemplazando el proceso manual de archivos planos | Python · SQL Server · REST API · Postman |
 | **SIAM Cartocor** | Sistema de gestión de informes de producción industrial con app móvil propia | PHP · Yii2 · React Native · MySQL |
 | **SIAM DLYS** | Sistema de gestión documental y digitalización de archivos | PHP · Yii2 · MySQL · JS |
