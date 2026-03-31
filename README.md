@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nicolas%20Gauna&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%26+DevOps+Engineer;React+%7C+Next.js+%7C+React+Native;TypeScript+%7C+Python+%7C+PHP;AWS+%7C+CI%2FCD+%7C+Docker;Mercado+Pago+%7C+AI+Integrations;Fundador+de+KrakenLab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%26+DevOps+Engineer;React+%7C+Next.js+%7C+React+Native;TypeScript+%7C+Python+%7C+PHP;AWS+%7C+CI%2FCD+%7C+Docker;Mercado+Pago+%7C+AI+Integrations;KrakenLab)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,9 +13,9 @@
 Soy **Técnico Superior en Desarrollo de Software** y **DevOps Engineer** con diplomatura universitaria en DevOps.
 Tengo experiencia construyendo productos reales de principio a fin — desde la arquitectura hasta el despliegue en producción.
 
-Fundé **KrakenLab**, donde desarrollo soluciones SaaS modernas con tecnologías actuales e integración de IA.
+Trabajo en **KrakenLab**, desarrollando soluciones SaaS modernas con tecnologías actuales e integración de IA.
 
-- Fundador de **KrakenLab** — construyendo el futuro del software para comercios
+- Parte del equipo de **KrakenLab** — construyendo el futuro del software para comercios
 - Especializado en **SaaS**, integraciones de pago, **IA aplicada** e infraestructura cloud
 - Diplomatura universitaria en **DevOps** — CI/CD, contenedores, cloud
 - Metodologías ágiles con **Jira** y Scrum en entornos profesionales
@@ -82,7 +82,7 @@ Fundé **KrakenLab**, donde desarrollo soluciones SaaS modernas con tecnologías
 
 ## Proyecto principal — Aura
 
-> Plataforma SaaS all-in-one para comercios, desarrollada en **KrakenLab**
+> Plataforma SaaS all-in-one para comercios, desarrollada en **[KrakenLab](https://krakenlab.com.ar)**
 
 <table>
   <tr>
@@ -113,7 +113,7 @@ Fundé **KrakenLab**, donde desarrollo soluciones SaaS modernas con tecnologías
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicog2112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicog2112&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicog2112&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" height="170" />
 </div>
 
 <div align="center">
